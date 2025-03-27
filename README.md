@@ -1,16 +1,16 @@
 # C--APIREST-GESTION_VIAJES
-🚛 C# API REST - Gestión de Viajes
+**🚛 C# API REST - Gestión de Viajes**
 Este proyecto es una aplicación web desarrollada en equipo en C#, diseñada para optimizar la logística de una empresa de transporte. Implementa principios RESTful para gestionar la comunicación entre una interfaz web en HTML/CSS y la lógica de negocio, facilitando la administración de flotas de camionetas, paquetes y asignación eficiente de envíos.
 #
 **🛠️ Tecnologías Utilizadas**
 
-C#: Implementación de la lógica de negocio y controladores RESTful.
+**C#:** Implementación de la lógica de negocio y controladores RESTful.
 
-HTML/CSS: Desarrollo de la interfaz de usuario.
+**HTML/CSS:** Desarrollo de la interfaz de usuario.
 
-JavaScript: Manejo de la comunicación entre el frontend y el backend.
+**JavaScript:** Manejo de la comunicación entre el frontend y el backend.
 
-JSON: Almacenamiento y transferencia de datos en formato estructurado.
+**JSON:** Almacenamiento y transferencia de datos en formato estructurado.
 #
 **🚀 Funcionalidades Principales**
 
