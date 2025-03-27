@@ -1,0 +1,56 @@
+[
+  {
+    "CodigoCompra": 1,
+    "CodigoProductoCompra": 1,
+    "DniClienteCompra": 240,
+    "FechaCompra": "2023-10-31T11:10:21.9720059-03:00",
+    "CantidadComprada": 5,
+    "FechaEntregaSolicitada": "2023-11-05T10:43:26.9354496-03:00",
+    "EstadoCompra": 2,
+    "MontoTotal": 4.5375,
+    "PuntoDestino": {
+      "LatitudCliente": -30.0,
+      "LongitudCliente": -60.0
+    },
+    "TamañoCajaTotal": 1250.0,
+    "FechaEliminacion": null,
+    "FechaCreacion": "2023-10-31T11:10:21.9727114-03:00",
+    "FechaActualizacion": null
+  },
+  {
+    "CodigoCompra": 2,
+    "CodigoProductoCompra": 3,
+    "DniClienteCompra": 240,
+    "FechaCompra": "2023-10-31T11:10:57.9416704-03:00",
+    "CantidadComprada": 1,
+    "FechaEntregaSolicitada": "2023-11-03T10:43:26.9354496-03:00",
+    "EstadoCompra": 2,
+    "MontoTotal": 605.0,
+    "PuntoDestino": {
+      "LatitudCliente": -30.0,
+      "LongitudCliente": -60.0
+    },
+    "TamañoCajaTotal": 280.0,
+    "FechaEliminacion": null,
+    "FechaCreacion": "2023-10-31T11:10:57.9416737-03:00",
+    "FechaActualizacion": null
+  },
+  {
+    "CodigoCompra": 3,
+    "CodigoProductoCompra": 4,
+    "DniClienteCompra": 240,
+    "FechaCompra": "2023-10-31T11:11:21.9716155-03:00",
+    "CantidadComprada": 3,
+    "FechaEntregaSolicitada": "2023-11-02T10:43:26.9354496-03:00",
+    "EstadoCompra": 1,
+    "MontoTotal": 30.25,
+    "PuntoDestino": {
+      "LatitudCliente": -30.0,
+      "LongitudCliente": -60.0
+    },
+    "TamañoCajaTotal": 48000.0,
+    "FechaEliminacion": null,
+    "FechaCreacion": "2023-10-31T11:11:21.9716187-03:00",
+    "FechaActualizacion": null
+  }
+]

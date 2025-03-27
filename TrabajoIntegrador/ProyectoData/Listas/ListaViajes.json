@@ -1,0 +1,16 @@
+[
+  {
+    "CodigoViaje": 1,
+    "IdCamionAsignado": 1,
+    "FechaDesde": "2023-10-31T14:13:32.055Z",
+    "FechaHasta": "2023-11-06T14:13:32.055Z",
+    "PorcentajeOcupacion": 46.36363636363637,
+    "CodigoCompras": [
+      1,
+      2
+    ],
+    "FechaEliminacion": null,
+    "FechaCreacion": "2023-10-31T11:13:40.4814167-03:00",
+    "FechaActualizacion": null
+  }
+]

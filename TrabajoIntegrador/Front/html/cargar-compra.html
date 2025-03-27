@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compras</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    <div class="background">
+        <img src="/images/mundo.jpg" alt="background">
+    </div>
+
+    <div class="navbar">
+        <h1 style="display: flex; justify-content: end; margin-right: 50px;">AGENCIA</h1>
+    </div>
+
+    <form action="/js/cargar-compra.js" method="post" id="cargar-compra-form" style="width: 100%;">
+        <div class="formato-form">
+
+            <label for="codigo-de-producto">Codigo del producto:</label>
+            <input type="text" id="codigoProductoCompra" name="codigo-de-producto" class="custom-input">
+
+            <label for="dni">DNI:</label>
+            <input type="text" id="dni" name="dni" class="custom-input">
+
+            <label for="cantidad">Cantidad que se desea comprar:</label>
+            <input type="text" id="cantidadComprada" name="cantidad" class="custom-input">
+
+            <label for="fecha">Fecha de entrega solicitada:</label>
+            <input type="date" id="fechaEntregaSolicitada" name="fecha" class="custom-input">
+
+            <button type="submit" class="boton-submit">CARGAR COMPRA</button>
+        </div>
+    </form>
+
+    <footer>
+        <div style="height: 70px; left: 0; bottom: 0;"></div>
+        <div class="footer-container">
+            <div class="separador"
+                style="display: flex; justify-content: center; align-items: center; column-gap: 5px;">
+                <a href=""><i class="fa-solid fa-envelope"></i></a>
+                <p> Gaston Asselborn</p>
+            </div>
+            <div class="separador"
+                style="display: flex; justify-content: center; align-items: center; column-gap: 5px;">
+                <a href=""><i class="fa-solid fa-envelope"></i></a>
+                <p> Nicolas Caluva</p>
+            </div>
+            <div class="separador"
+                style="display: flex; justify-content: center; align-items: center; column-gap: 5px;">
+                <a href=""><i class="fa-solid fa-envelope"></i></a>
+                <p> Genaro Morero</p>
+            </div>
+    </footer>
+
+    <script src="https://kit.fontawesome.com/0d85862334.js" crossorigin="anonymous"></script>
+    <script src="/js/cargar-compra.js"></script>
+</body>
+
+</html>

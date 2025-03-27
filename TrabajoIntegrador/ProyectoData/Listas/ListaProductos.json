@@ -1,0 +1,58 @@
+[
+  {
+    "CodigoProducto": 1,
+    "NombreProducto": "Pepe",
+    "Marca": "Clown",
+    "AltoCaja": 10.0,
+    "AnchoCaja": 5.0,
+    "ProfundidadCaja": 5.0,
+    "PrecioProducto": 5.0,
+    "StockMinimo": 80,
+    "CantidadStock": 140,
+    "FechaEliminacion": null,
+    "FechaCreacion": "2023-10-20T14:36:37.0652443-03:00",
+    "FechaActualizacion": "2023-10-29T21:49:08.4314907-03:00"
+  },
+  {
+    "CodigoProducto": 2,
+    "NombreProducto": "mango",
+    "Marca": "manguito",
+    "AltoCaja": 50.0,
+    "AnchoCaja": 20.0,
+    "ProfundidadCaja": 20.0,
+    "PrecioProducto": 30.0,
+    "StockMinimo": 40,
+    "CantidadStock": 40,
+    "FechaEliminacion": null,
+    "FechaCreacion": "2023-10-26T10:51:19.2933658-03:00",
+    "FechaActualizacion": "2023-10-29T14:51:20.1619015-03:00"
+  },
+  {
+    "CodigoProducto": 3,
+    "NombreProducto": "Desodorante",
+    "Marca": "Blem",
+    "AltoCaja": 5.0,
+    "AnchoCaja": 7.0,
+    "ProfundidadCaja": 8.0,
+    "PrecioProducto": 500.0,
+    "StockMinimo": 100,
+    "CantidadStock": 219,
+    "FechaEliminacion": null,
+    "FechaCreacion": "2023-10-29T13:41:36.4786235-03:00",
+    "FechaActualizacion": "2023-10-29T15:09:04.9723033-03:00"
+  },
+  {
+    "CodigoProducto": 4,
+    "NombreProducto": "Zapatillas",
+    "Marca": "Jordan",
+    "AltoCaja": 20.0,
+    "AnchoCaja": 40.0,
+    "ProfundidadCaja": 20.0,
+    "PrecioProducto": 25.0,
+    "StockMinimo": 30,
+    "CantidadStock": 12,
+    "FechaEliminacion": null,
+    "FechaCreacion": "2023-10-29T22:29:34.874767-03:00",
+    "FechaActualizacion": null
+  }
+]

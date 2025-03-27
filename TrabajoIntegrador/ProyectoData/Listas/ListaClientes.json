@@ -1,0 +1,32 @@
+[
+  {
+    "DniCliente": 4440,
+    "NombreCliente": "Genaro",
+    "ApellidoCliente": "Morero",
+    "EmailContactoCliente": "gena@gmail.com",
+    "TelefonoCliente": 3330,
+    "LocalizacionCliente": {
+      "LatitudCliente": -61.0,
+      "LongitudCliente": -30.0
+    },
+    "FechaNacimientoCliente": "2021-10-29T16:13:33.175Z",
+    "FechaEliminacion": "2023-10-29T13:23:24.267815-03:00",
+    "FechaCreacion": "2023-10-20T17:19:34.6507376-03:00",
+    "FechaActualizacion": "2023-10-29T13:14:18.2254926-03:00"
+  },
+  {
+    "DniCliente": 240,
+    "NombreCliente": "Nicolas",
+    "ApellidoCliente": "Caluva",
+    "EmailContactoCliente": "nico@gmail.com",
+    "TelefonoCliente": 43430,
+    "LocalizacionCliente": {
+      "LatitudCliente": -30.0,
+      "LongitudCliente": -60.0
+    },
+    "FechaNacimientoCliente": "2013-10-29T16:14:53.621Z",
+    "FechaEliminacion": null,
+    "FechaCreacion": "2023-10-29T13:15:27.3979356-03:00",
+    "FechaActualizacion": null
+  }
+]

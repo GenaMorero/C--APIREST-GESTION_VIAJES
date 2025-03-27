@@ -1,0 +1,17 @@
+[
+  {
+    "PatenteCamioneta": "AA003OD",
+    "TamañoCamioneta": 3300,
+    "DistanciaMaxCamioneta": 350
+  },
+  {
+    "PatenteCamioneta": "AE718OJ",
+    "TamañoCamioneta": 5800,
+    "DistanciaMaxCamioneta": 550
+  },
+  {
+    "PatenteCamioneta": "AB578OE",
+    "TamañoCamioneta": 6700,
+    "DistanciaMaxCamioneta": 750
+  }
+]
